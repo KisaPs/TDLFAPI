@@ -24,8 +24,12 @@
 
  [Пример ответа](./Examples/Response/API/V1/GetInvoiceIFZ.json)
 
+### Подтвердить прием заказов
 
-
+```http
+  POST /api/v1/GetInvoiceIFZ
+```
+[Пример запроса](./Examples/Request/API/V1/GetInvoiceIFZ.json)
 
 ## Секция титл
 ## 2
