@@ -8,9 +8,3 @@ Authorization: Bearer {{token}}
   "quantity": 2,
   "comment": "Срочный заказ"
 }
-
-### Response (201 Created)
-{
-  "id": "166d1994-66ee-11f0-bdb6-d4f5ef7885bf",
-  "status": "created"
-}
