@@ -30,7 +30,55 @@
   POST /api/v1/InvoiceIFZ
 ```
  - [Пример запроса](./Examples/Request/API/V1/PostInvoiceIFZ.json)
- - [Пример Ответа](./Examples/Response/API/V1/PostInvoiceIFZ.json)
+ - [Пример ответа](./Examples/Response/API/V1/PostInvoiceIFZ.json)
+
+  "status":  "success", "partial" или "error".  
+  После установки резерва, обновить остатки.
+
+## Товары
+### Отправить номенклатуру
+
+```http
+  POST /api/v1/ProductIFZ
+```
+ - [Пример запроса](./Examples/Request/API/V1/ProductIFZ.json)
+
+ Доступные реквизиты необходимо добавить в обмен.
+
+## Цены
+### Отправить цены на товар
+
+```http
+  POST /api/v1/PriceIFZ
+```
+- [Пример запроса](./Examples/Request/API/V1/PriceIFZ.json)
+
+
+## Остатки
+### Отправить остатки товаров
+
+```http
+  POST /api/v1/StockIFZ
+```
+- [Пример запроса](./Examples/Request/API/V1/StockIFZ.json)
+
+
+## Отгрузка
+### Отправить список отгрузок
+
+```http
+  POST /api/v1/PostShipmentIFZ
+```
+
+
+
+
+
+
+
+
+
+
 
 ## Секция титл
 ## 2
