@@ -1,11 +1,17 @@
-![2MGXgbaBdCjhJIYuq_ab7WgicC41IHQuUkFwLuEkhi4hJngsISB0bA](https://github.com/user-attachments/assets/3188eb48-9348-4f3c-a441-b54d338c6fb1)
 # TDLFAPI
-Обмен данными ТДЛФ и ИФЗ
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Обмен+данными+ИФЗ+ТДЛФ)](https://git.io/typing-svg)
+
+![2MGXgbaBdCjhJIYuq_ab7WgicC41IHQuUkFwLuEkhi4hJngsISB0bA](https://github.com/user-attachments/assets/3188eb48-9348-4f3c-a441-b54d338c6fb1)
+
   
-# Project Title
+## Пинг
+
+```http
+  GET /api/v1/ping
+```
 
 A brief description of what this project does and who it's for
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Обмен+данными+ИФЗ+ТДЛФ)](https://git.io/typing-svg)
+
 
 ## Секция титл
 ## 2
