@@ -29,8 +29,8 @@
 ```http
   POST /api/v1/InvoiceIFZ
 ```
-[Пример запроса](./Examples/Request/API/V1/PostInvoiceIFZ.json)
-[Пример jndtnf](.\Examples\Response\API\V1\PostInvoiceIFZ.json)
+ - [Пример запроса](./Examples/Request/API/V1/PostInvoiceIFZ.json)
+ - [Пример Ответа](./Examples/Response/API/V1/PostInvoiceIFZ.json)
 
 ## Секция титл
 ## 2
