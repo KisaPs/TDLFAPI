@@ -1,5 +1,5 @@
-﻿# TDLFAPI
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Обмен+данными+ИФЗ+ТДЛФ)](https://git.io/typing-svg)
+﻿
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Обмен+данными+ИФЗ+ТДЛФ)](https://git.io/typing-svg)
 
 ![2MGXgbaBdCjhJIYuq_ab7WgicC41IHQuUkFwLuEkhi4hJngsISB0bA](https://github.com/user-attachments/assets/3188eb48-9348-4f3c-a441-b54d338c6fb1)
 
