@@ -137,7 +137,7 @@ What did you learn while building this project? What challenges did you face and
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-
+![Logo](https://cdn1.ozonusercontent.com/s3/product-service-meta-media/8e367f05-6c44-4dde-8032-b48c0d85d417.jpg)
 ## Optimizations
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
