@@ -16,7 +16,7 @@
 ### Получить новые заказы
 
 ```http
-  GET /api/v1/GetInvoiceIFZ
+  GET /api/v1/InvoiceIFZ
 ```
  - При отстутствии заказов вернуть пустой массив. 
  - Назначение может быть пустое. 
@@ -27,9 +27,9 @@
 ### Подтвердить прием заказов
 
 ```http
-  POST /api/v1/GetInvoiceIFZ
+  POST /api/v1/InvoiceIFZ
 ```
-[Пример запроса](./Examples/Request/API/V1/GetInvoiceIFZ.json)
+[Пример запроса](./Examples/Request/API/V1/PostInvoiceIFZ.json)
 
 ## Секция титл
 ## 2
