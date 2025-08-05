@@ -1,5 +1,5 @@
 ﻿# <span align="center" style="color: #3498db;" > TDLFAPI</span>
-![2MGXgbaBdCjhJIYuq_ab7WgicC41IHQuUkFwLuEkhi4hJngsISB0bA](https://github.com/user-attachments/assets/3188eb48-9348-4f3c-a441-b54d338c6fb1)
+![60f14f31a5cd7](https://github.com/user-attachments/assets/3624e5a4-1b11-4706-9dfe-09147c45d5cc)
 
 
 ##### URL будет задан позже, проводятся работы
