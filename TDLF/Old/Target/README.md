@@ -5,7 +5,8 @@
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 <div style="width: 48%;">
-<strong> Объединённые ЗП (многие-ко-многим) </strong>
+
+* Объединённые ЗП (многие-ко-многим) 
 
 ```mermaid
 graph LR
@@ -48,7 +49,9 @@ graph LR
     class НетЗК none;
     class НетСделки noDeal;
 ```
-</div> <div style="width: 48%;"> <strong>Индивидуальные ЗП (один-к-одному)</strong>
+</div> <div style="width: 48%;"> 
+
+* Индивидуальные ЗП (один-к-одному)
 
 ```mermaid
 graph LR
@@ -92,4 +95,5 @@ graph LR
 
 ```
 
-</div> </div>
+</div> 
+</div>
