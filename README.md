@@ -1,5 +1,5 @@
 ﻿# <span align="center" style="color: #3498db;text-align:center" > TDLFAPI</span>
-
+# НЕ ИСПОЛЬЗУЕТСЯ!!!!!!!!!
 <img width="148" height="142" alt="600008557279b2" src="https://github.com/user-attachments/assets/05c2a677-ce15-4d80-a85b-52e6f57c410f" />
 
 
